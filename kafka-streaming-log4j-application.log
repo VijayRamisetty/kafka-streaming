@@ -1,0 +1,3 @@
+2020-05-19 22:19:27 INFO  HelloProducer:18 -  Creating Kafka Producer
+2020-05-19 22:19:28 INFO  HelloProducer:28 - Producer Started Sending messages...
+2020-05-19 22:19:30 INFO  HelloProducer:35 - Finished Sending messages to Kafka. Closing Producer
