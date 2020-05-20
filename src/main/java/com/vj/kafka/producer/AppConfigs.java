@@ -7,5 +7,8 @@ public class AppConfigs {
     final static String TOPIC_NAME ="hello-producer-topic" ;
     final static  int NUM_EVENTS = 1000;
 
+    // using external properties file
+    final static String KAFKA_APP_PROPS_LOC ="kafka-application.properties" ;
+
 }
 
